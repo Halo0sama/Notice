@@ -1,0 +1,8 @@
+plugins { id 'com.android.application' }
+android {
+ namespace 'com.halo.notice.fixture'
+ compileSdk 37
+ compileSdkMinor 0
+ buildToolsVersion '36.0.0'
+ defaultConfig {applicationId 'com.halo.notice.fixture';minSdk 28;targetSdk 36;versionCode 1;versionName '1.0'}
+}

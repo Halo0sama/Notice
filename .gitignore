@@ -1,0 +1,16 @@
+.gradle/
+.kotlin/
+.idea/
+**/build/
+local.properties
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.docx
+*.jks
+*.keystore
+*.hprof
+.DS_Store
+.private/
+artifacts/
